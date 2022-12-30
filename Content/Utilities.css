@@ -1,0 +1,16 @@
+﻿body {
+}
+
+.align-items-center{
+    align-items:center !important;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column !important;
+}
+
+.borderGeneralWhite {
+    border-top: 1.5px solid white;
+    padding-bottom: 15px;
+}
